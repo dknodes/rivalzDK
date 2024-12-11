@@ -1,0 +1,14 @@
+services:
+  rivalz-node:
+    build: .
+    container_name: rivalz
+    env_file: .env
+    environment:
+      - WALLET_ADDRESS=${WALLET_ADDRESS}
+      - CPU_CORES=${CPU_CORES}
+      - RAM=${RAM}
+      - DISK_SIZE=${DISK_SIZE}
+    restart: unless-stopped
+    volumes:
+      - /etc/machine-id:/etc/machine-id
+      - /var/lib/dbus/machine-id:/var/lib/dbus/machine-id
