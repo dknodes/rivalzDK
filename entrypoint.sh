@@ -5,4 +5,6 @@ echo "RAM=$RAM"
 echo "DISK_SIZE=$DISK_SIZE"
 echo "DISK_SELECTION='$DISK_SELECTION'"
 
+node index.js
+
 tail -f /dev/null
