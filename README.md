@@ -24,7 +24,5 @@
 <p>You can run the node on your computer with any operating system,<strong> but for security,</strong> it’s safer to go with a server.</p>
 <p><strong>We use for hosting:
 • </strong><a href="https://aeza.net/?ref=583653"><strong>Aeza</strong></a><strong> (+15% bonus on deposits in the first 24 hours, + 15% on servers)
-• </strong><a href="https://contabo.com/"><strong>Contabo</strong></a><strong>
-• </strong><a href="https://billing.spacecore.pro/billmgr?from=56688"><strong>Spacecore</strong></a></p>
 <p><strong>you can leave any questions in the comments 👇🏼</strong></p>
 <h1>nodes #activity</h1>
