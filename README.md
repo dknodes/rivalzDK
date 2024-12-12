@@ -29,9 +29,9 @@
 <p>We use <a href="https://aeza.net/?ref=583653"><strong>Aeza</strong></a> for hosting (+15% bonus on deposits in the first 24 hours, +15% on servers).</p>
 
 <p><strong>One-click Node Installation:</strong></p>
-<pre>
+```bash
 sudo bash -c 'git clone https://github.com/dknodes/rivalzDK.git && cd rivalzDK && chmod ugo+x rivalzDK.sh && ./rivalzDK.sh'
-</pre>
+```
 
 <p>This command includes the following options:</p>
 <ul>
