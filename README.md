@@ -1,5 +1,3 @@
-# rivalzDK
-
 <p><strong>🔎</strong><strong> Project on the radar: Rivalz Network</strong></p>
 <p><a href="https://twitter.com/Rivalz_AI"><strong>Rivalz</strong></a> is a protocol built for the monetization of personal data, allowing users to earn based on their contributions through AI-generated databases.</p>
 <p>💰 <strong>The project </strong><a href="https://cryptorank.io/ico/rivalz-network"><strong>raised</strong></a><strong> $11M from:</strong></p>
@@ -24,5 +22,5 @@
 <p>You can run the node on your computer with any operating system,<strong> but for security,</strong> it’s safer to go with a server.</p>
 <p><strong>We use for hosting:
 • </strong><a href="https://aeza.net/?ref=583653"><strong>Aeza</strong></a><strong> (+15% bonus on deposits in the first 24 hours, + 15% on servers)
-<p><strong>you can leave any questions in the comments 👇🏼</strong></p>
-<h1>nodes #activity</h1>
+
+
