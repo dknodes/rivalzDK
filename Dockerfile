@@ -6,7 +6,7 @@ WORKDIR /usr/src/app
 
 COPY entrypoint.sh ./
 COPY index.js ./
-RUN npm install -g rivalz-node-cli && npm install node-pty
+RUN npm install node-pty && npm install -g rivalz-node-cli 
 RUN chmod +x ./entrypoint.sh
 
 ENTRYPOINT ["./entrypoint.sh"]
