@@ -29,9 +29,9 @@
 <p>We use <a href="https://aeza.net/?ref=583653"><strong>Aeza</strong></a> for hosting (+15% bonus on deposits in the first 24 hours, +15% on servers).</p>
 
 <p><strong>One-click Node Installation:</strong></p>
-```bash
+<pre>
 sudo bash -c 'git clone https://github.com/dknodes/rivalzDK.git && cd rivalzDK && chmod ugo+x rivalzDK.sh && ./rivalzDK.sh'
-```
+</pre>
 
 <p>This command includes the following options:</p>
 <ul>
@@ -62,3 +62,12 @@ sudo bash -c 'git clone https://github.com/dknodes/rivalzDK.git && cd rivalzDK &
 
 <p>3️⃣ You can also view your data here:</p>
 <p><em>Image here</em></p>
+
+<p><strong>Stay Updated:</strong></p>
+<p>For the latest updates and installation instructions, follow us on:</p>
+<ul>
+  <li><a href="https://t.me/dknodes">Telegram</a></li>
+  <li><a href="https://twitter.com/dknodes">Twitter</a></li>
+</ul>
+
+<p><strong>Special Thanks:</strong> The idea was inspired by <a href="https://github.com/enzofoucaud/rivalz">Enzo Foucaud</a>.</p>
