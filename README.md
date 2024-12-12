@@ -56,10 +56,11 @@
 </pre>
 
 <p>2️⃣ Afterward, check the logs. If everything is correct, it should look like this:</p>
-<img src="VievID.png">
+<img src="logRivalz.png">
 
 <p>3️⃣ You can also view your data here:</p>
-<img src="logRivalz.png">
+<img src="VievID.png">
+
 
 
 <p><strong>Stay Updated:</strong></p>
