@@ -119,8 +119,8 @@ restart_node() {
 view_logs() {
     echo -e "${LOGS} Viewing last 30 logs of Rivalz Node...${RESET}"
     docker-compose logs --tail 30
-    echo -e "${LOGS} Streaming logs in real-time... Press Ctrl+C to stop.${RESET}"
-    docker-compose logs -f
+#    echo -e "${LOGS} Streaming logs in real-time... Press Ctrl+C to stop.${RESET}"
+#    docker-compose logs -f
     read -p "Press enter to return to the main menu..."
 }
 
