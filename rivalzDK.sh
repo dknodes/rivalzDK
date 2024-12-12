@@ -68,7 +68,7 @@ install_node() {
     read -p "Enter your WALLET_ADDRESS: " WALLET_ADDRESS
     read -p "Enter the number of CPU_CORES: " CPU_CORES
     read -p "Enter the amount of RAM (e.g., 4G): " RAM
-    read -p "Enter the DISK_SIZE (e.g., 100G): " DISK_SIZE
+    read -p "Enter the DISK_SIZE (e.g., 10G): " DISK_SIZE
 
     # Create .env file
     cat > .env <<EOL
